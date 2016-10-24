@@ -1,0 +1,27 @@
+h1{
+	text-align: center;
+	margin-top: 2em;
+}
+
+table{
+	margin: 0 auto;
+	border-collapse: collapse;
+}
+td{
+	color:red;
+	width:5em;
+	height: 5em;
+	margin:12px;
+	text-align: center;
+}
+
+.horizontal{
+	border-top: .4em solid black;
+	border-bottom:.4em solid black;
+}
+
+.verticle{
+	border-left:.4em solid black;
+	border-right:.4em solid black;
+}
+
